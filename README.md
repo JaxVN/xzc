@@ -1,0 +1,2 @@
+# xzc
+autobuild xzc cpuminer
